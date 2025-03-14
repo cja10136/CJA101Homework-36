@@ -36,6 +36,6 @@ public class HW1_36 {
 		System.out.println("第六題：");
 		System.out.println(5 + 5); // 10，整數相加5+5=10
 		System.out.println(5 + '5'); // 58，因字元'5'的Unicode以十進位表示是53
-		System.out.println(5 + "5"); // 55，因Java會把int的5轉成string，兩個string連續印出
+		System.out.println(5 + "5"); // 55，先印數字5再印字串5
 	}
 }

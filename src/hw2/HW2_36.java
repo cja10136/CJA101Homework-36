@@ -91,7 +91,7 @@ public class HW2_36 {
 			}
 			System.out.println();
 		}
-		//二:
+		//二:使用for迴圈 + do while迴圈
 		System.out.println("\n使用for迴圈 + do while迴圈：");
 		for (i = 1; i <=9 ; i++) {
 			int j = 1;
