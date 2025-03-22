@@ -23,12 +23,6 @@ public class HW3_Q2_36 {
 		}
 		if(right == false) {
 			System.out.println("你已猜超過次數，遊戲結束");
-		}
-			
-
-		
-		
-		
-		
+		}	
 	}
 }
